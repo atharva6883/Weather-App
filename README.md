@@ -37,12 +37,12 @@ To get a local copy of this project up and running, follow these simple steps:
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/atharva6883/weather-app.git
+  git clone https://github.com/atharva6883/Weather-App.git
 ```
 2. Navigate to the project directory:
 
 ```bash
-  cd weather-app
+  cd Weather-App
 ```
 3. Open `index.html` in your web browser to view the app:
 
